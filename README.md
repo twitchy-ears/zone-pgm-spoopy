@@ -1,6 +1,8 @@
 # zone-pgm-spoopy
 A spoopy Halloween zone mode for Emacs
 
+![An emacs window showing the code from this repo with a number of halloween related emojis randomly scattered across it](/../screenshots/screenshots/zone-pgm-spoopy-2023-09-28.png?raw=true "A Very Spoopy Zone")
+
 Essentially randomly replaces characters in your buffer with spoopy emoji, by
 default this is from the following list: ("🎃" "💀" "👻" "🧟" "🕷️" "🧛" "🦇" "🐈‍⬛" "🪦" "⚰️")
 
