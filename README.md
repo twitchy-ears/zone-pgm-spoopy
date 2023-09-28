@@ -7,6 +7,7 @@ default this is from the following list: ("🎃" "💀" "👻" "🧟" "🕷️" 
 This is a very silly little lunchtime hack and the usage instructions look
 something like this: 
 
+```
 (require 'zone-pgm-spoopy)
 
 ;; Add it to the list
@@ -17,4 +18,4 @@ something like this:
 
 ;; Engage the spoop
 M-x zone
-
+```
